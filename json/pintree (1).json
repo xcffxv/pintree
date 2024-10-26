@@ -1,0 +1,23 @@
+[
+  {
+    "type": "folder",
+    "addDate": 1719845974452,
+    "title": "收藏夹栏",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1719845974620,
+        "title": "Lenovo Support",
+        "icon": "https://logo.clearbit.com/support.lenovo.com",
+        "url": "https://support.lenovo.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1719845974619,
+        "title": "Lenovo",
+        "icon": "https://logo.clearbit.com/www.lenovo.com",
+        "url": "https://www.lenovo.com/"
+      }
+    ]
+  }
+]
